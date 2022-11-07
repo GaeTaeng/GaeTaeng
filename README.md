@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://no-smoke-ui.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/-M-#EA4335"/></a>
+<a href="https://no-smoke-ui.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/-M-%23EA4335"/></a>
 
 <!--
 **GaeTaeng/GaeTaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
